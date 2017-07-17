@@ -1,0 +1,16 @@
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\bin\Debug\Renk değiştiren yazılar.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\bin\Debug\Renk değiştiren yazılar.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Form1.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Properties.Resources.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.csproj.GenerateResource.Cache
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.pdb
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\bin\Debug\Renk değiştiren yazılar.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\bin\Debug\Renk değiştiren yazılar.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\Renk değiştiren yazılar\Renk değiştiren yazılar\obj\x86\Debug\Renk değiştiren yazılar.pdb

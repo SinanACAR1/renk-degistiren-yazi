@@ -1,0 +1,7 @@
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\bin\Debug\yanıp sonen yazılar.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\bin\Debug\yanıp sonen yazılar.pdb
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Form1.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\obj\x86\Debug\yanıp_sonen_yazılar.Properties.Resources.resources
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\obj\x86\Debug\yanıp sonen yazılar.csproj.GenerateResource.Cache
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\obj\x86\Debug\yanıp sonen yazılar.exe
+C:\Users\arcelik\AppData\Local\Temporary Projects\yanıp sonen yazılar\obj\x86\Debug\yanıp sonen yazılar.pdb
